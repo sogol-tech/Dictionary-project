@@ -3,3 +3,8 @@
   text-align: center;
   padding: 20px;
 }
+
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
